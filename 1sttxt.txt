@@ -1,2 +1,4 @@
 Git‚Ì—ûK‚ğ‚·‚é‚æ
 ˆê‰ñ–Ú‚Ì•ÏX
+Egit add
+Egit commit
